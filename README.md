@@ -1,2 +1,2 @@
 # AirplaneClassifier
-Classifies airplanes, only classifies 3 classes currently
+Simple project to teach myself deeplearning4j
